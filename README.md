@@ -6,5 +6,4 @@
 - AOT
 - Katekyo Hitman Reborn!
 - Magi
-- Dragon Ball
-- Girl's Last Tour
+- Otokonoko wa Maid Fuku ga Osuki?
