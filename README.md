@@ -8,4 +8,5 @@
 - Magi
 - Dragon Ball
 - Girl's Last Tour
+- Spy Family
 - Claymore
