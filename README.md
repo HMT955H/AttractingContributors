@@ -16,6 +16,7 @@
 - Conan Edogawa(Detective Conan)
 - Kunimi Tama (Heaven Burns Red)
 - Saitama(One Punch Man)
+- Peter Parker(The Amazing Spider-Man)
 - Hitachi Mako (Senren Banka)
 - Akiduki Kanna (Café Stella and the Reaper's Butterflies)
 - Tanikaze Amane (Angelic☆Chaos RE-BOOT!)
