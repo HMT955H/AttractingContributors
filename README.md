@@ -24,3 +24,4 @@
 - Hoshizora Rin (LoveLive!)
 - Watanabe You (LoveLive! Sunshine!!)
 - Hakase(Nichijou)
+- Hattori Heiji (detective conan)
